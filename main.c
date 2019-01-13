@@ -1,10 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define WIDTH 10
-#define LENGTH 10
-#define RESOLUTION LENGTH*WIDTH
-
-// VIDEO : 32:24
 
 typedef struct{
     unsigned char r;
